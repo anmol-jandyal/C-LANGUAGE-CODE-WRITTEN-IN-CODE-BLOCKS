@@ -1,0 +1,8 @@
+/*
+  FIRST PROGRAM IN C LANGUAGE
+*/
+void main()
+{
+printf(" IT'S MY FIRST PROGRAM IN C LANGUAGE"); //TO DISPLAY MESSOGE ON SCRREEN.
+getch();
+}
